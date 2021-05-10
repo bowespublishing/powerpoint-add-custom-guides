@@ -6,7 +6,7 @@ TO-DO
 
 Create toolbar/button on ribbon - Done
 
-Add option to colour guides
+Add option to colour guides - Done
 
 Tidy code
 
