@@ -8,6 +8,8 @@ Create toolbar/button on ribbon - Done
 
 Add option to colour guides - Done
 
+Add option for single guides - Done
+
 Tidy code
 
 Add comments
