@@ -10,6 +10,10 @@ Add option to colour guides - Done
 
 Add option for single guides - Done
 
+Add option to add a 'gutter' margin - Done
+
+Added Mac support - Done
+
 Tidy code
 
 Add comments
